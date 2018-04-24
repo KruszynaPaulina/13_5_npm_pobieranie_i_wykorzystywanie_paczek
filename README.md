@@ -2,7 +2,7 @@
 
 Zadanie wykonane w ramamch bootcampu Kodilla - "JavaScript developer" - II część "Web Developer".
 
-Opis: Zadanie ma na celu przećwiczenie w praktyce pobieranie i wykorzystywanie możliwości zainstalowanych paczek za pomoca npm w środowisku uruchomieniowym node.js.
+Opis: Zadanie ma na celu przećwiczenie w praktyce pobieranie i wykorzystywanie możliwości zainstalowanych paczek za pomocą npm w środowisku uruchomieniowym node.js.
 
 Rozwiązania, tchnologie i narzędzia:
 - Node.js
